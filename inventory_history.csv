@@ -1,0 +1,10 @@
+sku,warehouse,txn_date,txn_type,quantity,closing_stock,notes
+A123,WH1,2025-01-01,SALE,10,90,High demand New Year
+A123,WH1,2025-01-02,SALE,15,75,Stockout risk
+A123,WH1,2025-01-05,PURCHASE,50,125,Replenished from vendor X
+B456,WH2,2025-01-03,SALE,20,130,Normal movement
+B456,WH2,2025-01-04,PURCHASE,100,230,Bulk restock
+C789,WH3,2025-01-02,SALE,5,45,Slow moving item
+C789,WH3,2025-01-10,SALE,3,42,Low demand
+D555,WH1,2025-01-05,SALE,40,60,Spike due to promo
+D555,WH1,2025-01-06,SALE,30,30,Immediate stockout risk
